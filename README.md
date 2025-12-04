@@ -2,56 +2,67 @@
 
 🤖 精选全球顶级 AI 研究者博客与学习资源，助你快速掌握人工智能前沿动态。
 
-## ✨ 资源概览
+## 一、个人技术博客（精选）
 
-本仓库收录了 **100+** 优质 AI 学习资源，包括：
+| 作者 | 博客链接 | 所属机构 | 研究方向 | 推荐理由 |
+|------|----------|----------|----------|----------|
+| Lilian Weng | [Lil'Log](https://lilianweng.github.io) | OpenAI | 安全系统、RLHF、Agent | 行业必读综述文献，体系化程度高 |
+| Andrej Karpathy | [Blog](https://karpathy.github.io) | Eureka Labs | 深度学习教育、Software 2.0 | 直觉构建大师，通过代码解释复杂概念 |
+| Chris Olah | [Colah's Blog](https://colah.github.io) | Anthropic | 可解释性、神经网络可视化 | 深度学习的显微镜，连接数学与视觉直觉 |
+| Jay Alammar | [Illustrated AI](https://jalammar.github.io) | Cohere | 可视化教学 | 图解式教学，全球公认最佳入门资源 |
+| Sebastian Ruder | [ruder.io](https://ruder.io) | Cohere | NLP、多语言模型 | NLP News简报是行业标准 |
+| Yi Tay | [yitay.net](https://yitay.net) | DeepMind | 高效Transformer、架构设计 | 架构师必读，深刻洞察模型架构历史 |
+| Tim Dettmers | [timdettmers.com](https://timdettmers.com) | CMU | 量化、消费级硬件 | 消费级硬件运行大模型指南 |
+| Chip Huyen | [huyenchip.com](https://huyenchip.com) | Voltron Data | MLOps、实时ML | 生产环境ML系统设计专家 |
+| Eugene Yan | [eugeneyan.com](https://eugeneyan.com) | Amazon | 推荐系统、LLM应用 | 推荐系统与LLM工程落地 |
 
-- 🌍 **国际顶级研究者**：OpenAI、DeepMind、Anthropic、Meta 等机构的核心研究员
-- 🇨🇳 **中国 AI 团队**：通义千问、智谱AI、月之暗面、深度求索等
-- 🏫 **学术机构**：Stanford、MIT、Berkeley、清华、北大等
-- 🏢 **公司官方博客**：OpenAI、Google、Anthropic、阿里云等
+## 二、中国AI研究者与团队
 
-## 📚 内容分类
+| 团队 | 博客链接 | 所属机构 | 研究方向 |
+|------|----------|----------|----------|
+| 通义千问 | [Qwen Blog](https://qwenlm.github.io/blog) | 阿里云 | 开源大模型、多模态、长文本 |
+| 智谱AI | [技术博客](https://zhipu-ai.feishu.cn/wiki/space/7309936523038679044) | 智谱AI | GLM系列、CodeGeeX |
+| Kimi团队 | [Moonshot Blog](https://www.moonshot.cn/blog) | 月之暗面 | 超长上下文、推理优化 |
+| 深度求索 | [DeepSeek Blog](https://www.deepseek.com/blog) | 深度求索 | 代码生成、MoE架构 |
+| 零一万物 | [Yi Blog](https://www.01.ai/blog) | 零一万物 | Yi系列模型、长上下文 |
+| 面壁智能 | [ModelBest](https://modelbest.cn/blog) | 面壁智能 | CPM系列、高效训练 |
 
-| 分类 | 说明 |
-|------|------|
-| 百科全书派 | 综述类文章，快速建立全局认知 |
-| 机制解释派 | 深入理解模型内部机制 |
-| 架构扩展派 | Scaling Laws、模型架构设计 |
-| 高效工程派 | 量化、推理优化、部署 |
-| 应用落地派 | RAG、Agent、MLOps 实践 |
-| 开放科学派 | 开源生态、批判性思考 |
+## 三、公司官方博客
 
-## 🎯 适用人群
+| 公司 | 博客链接 | 核心特色 |
+|------|----------|----------|
+| OpenAI | [openai.com/blog](https://openai.com/blog) | GPT系列、一手资讯 |
+| DeepMind | [deepmind.google/blog](https://deepmind.google/blog) | AI先驱、跨学科研究 |
+| Anthropic | [anthropic.com/blog](https://www.anthropic.com/blog) | AI对齐和安全 |
+| Meta AI | [ai.meta.com/blog](https://ai.meta.com/blog) | LLaMA系列、开源导向 |
+| Hugging Face | [huggingface.co/blog](https://huggingface.co/blog) | 开源社区、模型分享 |
 
-- **AI 入门者**：从图解教程开始，逐步深入
-- **算法研究员**：追踪前沿论文与技术趋势
-- **工程师**：学习生产级部署与优化技巧
-- **技术管理者**：了解行业全貌与战略方向
+## 四、按学习目标推荐
 
-## 📖 使用方式
+| 学习目标 | 推荐博客 | 学习路径 |
+|----------|----------|----------|
+| **入门学习** | Jay Alammar、Chris Olah、Andrej Karpathy | 图解Transformer → 理解LSTM/CNN → 代码实现 |
+| **深入研究** | Lilian Weng、Jason Wei、Yi Tay | 系统性综述 → Scaling Laws → 架构演进 |
+| **技术实践** | Chip Huyen、Eugene Yan、Sophia Yang | RAG/Agent构建 → MLOps → 生产部署 |
+| **AI安全** | Chris Olah、Neel Nanda、Jan Leike | 可解释性 → 机制解释 → 对齐理论 |
+| **中文大模型** | Qwen、智谱AI、Kimi、DeepSeek | 中文预训练 → 长文本 → 垂直应用 |
 
-查看 [AI学习资料.md](./AI学习资料.md) 获取完整资源列表，包含：
+## 五、派别分类速查
 
-- 按学习目标推荐
-- 按角色推荐阅读路径
-- 派别分类速查表
-- 快速链接汇总
-
-## 🔗 相关链接
-
-- 🌐 网站：[www.qiaomu.ai](https://www.qiaomu.ai)
-- 🐦 Twitter/X：[@vista8](https://x.com/vista8)
-
-## 🤝 贡献
-
-欢迎提交 PR 补充更多优质资源！
-
-## 📄 License
-
-MIT License
+| 派别 | 核心关注 | 代表人物 |
+|------|----------|----------|
+| 百科全书派 | 综述、知识体系化 | Lilian Weng、Sebastian Ruder |
+| 机制解释派 | 黑盒逆向、电路分析 | Chris Olah、Neel Nanda |
+| 架构扩展派 | Scaling Laws、架构设计 | Yi Tay、Jason Wei |
+| 高效工程派 | 量化、推理优化 | Tim Dettmers、Jeff Dean |
+| 应用落地派 | MLOps、RAG、Agent | Chip Huyen、Eugene Yan |
+| 开放科学派 | 开源、批判性思考 | Yann LeCun、François Chollet |
 
 ---
 
-⭐ 如果这个资源对你有帮助，请给个 Star！
+📖 **完整资源列表**：[AI学习资料.md](./AI学习资料.md)
+
+🌐 **网站**：[www.qiaomu.ai](https://www.qiaomu.ai) | 🐦 **Twitter/X**：[@vista8](https://x.com/vista8)
+
+⭐ 如果这个资源对你有帮助，请给个 Star！欢迎提交 PR 补充更多优质资源。
 
